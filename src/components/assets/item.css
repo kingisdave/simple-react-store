@@ -1,0 +1,17 @@
+.img{
+	height: 200px;
+}
+.butt{
+	background-color: red !important;
+	color: #f4f4f4;
+}
+.fa-user {
+	width: 4em;
+	height: auto;
+}
+/*.form-inline .form-control {
+	width: 19%;
+}*/
+label{
+	margin: 1% 0 -6% 3%; 
+}

@@ -1,0 +1,28 @@
+.toppy{
+  box-shadow: 0 3px 7px #000000;
+}
+
+.thumbnail{
+	width: 60px;
+	height: auto;
+}
+textarea{
+	resize: none;
+}
+
+.reg{
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.), rgba(32, 39, 2, 0.9)), url('./components/assets/images/bg.jpg') no-repeat center;
+	background-size: cover;
+	height: 100vh;
+
+}
+
+.sidenav {
+	height: 90vh;
+	background: linear-gradient(120deg, rgba(128, 77, 0, 0.2), rgba(204, 143, 51, 0.9));
+	color: white;
+}
+
+.routeCard {
+	background: linear-gradient(120deg, rgba(128, 77, 0, 0.2), rgba(204, 143, 51, 0.9));
+}
